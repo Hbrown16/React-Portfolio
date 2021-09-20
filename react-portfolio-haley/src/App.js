@@ -1,7 +1,10 @@
+import NavBar from './components/Nav/NavBar'
+import About from './components/About/aboutme'
 const App = () => {
   return (
     <div className="App">
-     <h1> Haley Brown </h1>
+     < NavBar />
+     < About />
     </div>
   );
 }
