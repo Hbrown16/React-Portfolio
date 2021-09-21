@@ -4,7 +4,7 @@
 }
 
 
-.Projects .ProjectsContent .Videos {
+.Projects .ProjectsContent {
     display: flex;
     flex-direction: colum;
     align-items:center;

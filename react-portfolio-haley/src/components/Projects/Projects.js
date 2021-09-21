@@ -5,7 +5,7 @@ import Music from './../../img/vibezs.gif'
 
 const linkBtnSvg = (url) => {
     return (
-        <div className={StyleSheet.linkButton}
+        <div className={classes.linkButton}
         onClick={(e) => window.open(url, "_blank").focus}
         >
          <svg class="svg-icon" viewBox="0 0 20 20">
@@ -23,12 +23,12 @@ const linkBtnSvg = (url) => {
 
 const projectClip = (url, thumbnail, description) => {
     return (
-        <div className={StyleSheet.VideoContainer}>
-            <div className={StyleSheet.Thumbnail}>
+        <div className={classes.VideoContainer}>
+            <div className={classes.Thumbnail}>
                 {linkBtnSvg(url)}
                 <img src={thumbnail} alt="thumbnail"></img>
             </div>
-            <div className={StyleSheet.Text}>
+            <div className={classes.Text}>
                 <p>{description}</p>
             </div>
         </div>
