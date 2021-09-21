@@ -10,11 +10,13 @@ body {
 h1 {
   font-weight: 900;
   font-size: 45px;
+  color: white;
 }
 
 h2 {
   font-weight: 700;
   font-size: 25px;
+  color: white;
 }
 
 p {

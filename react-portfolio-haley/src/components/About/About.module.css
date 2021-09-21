@@ -1,1 +1,8 @@
-.Container {}
+.AboutMe {
+    background-color: black;
+}
+
+.AboutMe .Container .Photo .Me {
+    height: 500px;
+    border-radius: 10%;
+}
