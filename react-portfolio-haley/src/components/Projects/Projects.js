@@ -21,7 +21,13 @@ const linkBtnSvg = (url) => {
 
 const projectClip = (url, thumbnail, description) => {
     return (
-        <
+        <div className={StyleSheet.VideoContainer}>
+            <div className={StyleSheet.Thumbnail}>
+                {linkBtnSvg(url)}
+                <img src={thumbnail} alt="thumbnail"></img>
+            </div>
+            
+        </div>
     )
 }
 const Youtube = () => {
