@@ -1,7 +1,9 @@
+import classes from '../Skills/Skills.module.css'
+import PageHeader from '../PageHeader/PageHeader'
 const Skills = () => {
     return (
         <div>
-            <h1>My Work</h1>
+            <PageHeader title={'Check out my skills'}/>
         </div>
     );
 }
