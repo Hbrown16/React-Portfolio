@@ -1,10 +1,10 @@
 import classes from '../PageHeader/PageHeader.module.css'
 
-const PageHeader = () => {
+const PageHeader = (props) => {
     return (
         <div className={classes.Container}>
             <hr />
-            <h1>{PaymentResponse.title}</h1>
+            <h1>{props.title}</h1>
         </div>
     );
 }
