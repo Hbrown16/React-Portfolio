@@ -25,4 +25,12 @@
     padding-right: 2.5%;
 }
 
-.Project
+.Project .VideoContainer .Thumbnail {
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    position: relative;
+    cursor: pointer;
+    z-index: 0;
+}
+
+
