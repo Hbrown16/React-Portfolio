@@ -1,18 +1,20 @@
 .Projects {
     background-image: radial-gradient(circle, rgba(5,114,186,1) 23%, rgba(27,134,164,1) 51%, rgba(119,7,246,1) 100%);
+    
 }
 
-.Project .ProjectContent {
+
+.Projects .ProjectsContent .Videos {
     display: flex;
     flex-direction: colum;
     align-items:center;
 }
 
-.Project .Videos {
+.Projects .Videos {
     width: 70%;
 }
 
-.Project .Paragraph {
+.Projects .Paragraph {
     width: 65%;
 }
 
@@ -20,12 +22,12 @@
     max-width: 489px;
 }
 
-.Project .VideoContainer .Text {
+.Projects .VideoContainer .Text {
     padding-left: 2.5%;
     padding-right: 2.5%;
 }
 
-.Project .VideoContainer .Thumbnail {
+.Projects .VideoContainer .Thumbnail {
     padding-left: 2.5%;
     padding-right: 2.5%;
     position: relative;
@@ -33,14 +35,14 @@
     z-index: 0;
 }
 
-.Project .VideoContainer .Thumbnail .linkButton {
+.Projects .VideoContainer .Thumbnail .linkButton {
     position: absolute;
     width: 24%;
     left: 44%;
     top: 29%;
 }
 
-.Project .Videos .VideoContainer {
+.Projects .Videos .VideoContainer {
     display: flex;
     background:rgb(0, 132, 255);
     margin-bottom: 5%;

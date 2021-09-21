@@ -40,7 +40,7 @@ const vibezDescription = `Vibez gives users the ability to download music on an 
 
 const Projects = () => {
     return (
-        <div className={classes.Projects}>
+        <div className={classes.Projects} id="projects">
             <PageHeader title={"Projects"} />
             <div className={classes.ProjectsContent}>
                 <div className={classes.Paragraph}>
