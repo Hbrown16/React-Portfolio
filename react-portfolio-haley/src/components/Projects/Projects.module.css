@@ -33,4 +33,11 @@
     z-index: 0;
 }
 
+.Project .VideoContainer .Thumbnail .linkButton {
+    position: absolute;
+    width: 24%;
+    left: 44%;
+    top: 29%;
+}
+
 
