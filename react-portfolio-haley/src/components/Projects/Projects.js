@@ -1,5 +1,7 @@
 import classes from './Projects.module.css'
 import PageHeader from '../PageHeader/PageHeader'
+import Superheroes from './../../img/Askoracle.gif'
+import Music from './../../img/vibez-logo.png'
 
 const linkBtnSvg = (url) => {
     return (
@@ -36,7 +38,7 @@ const projectClip = (url, thumbnail, description) => {
 const askOracleDescription = `Ask Oracle allows users to search all their favorite superheros and see what movies and comics they have played in.`;
 const vibezDescription = `Vibez gives users the ability to download music on an app and still be able to listen to offline.`;
 
-const Youtube = () => {
+const Projects = () => {
     return (
         <div className={classes.Projects}>
             <PageHeader title={"Projects"} />
@@ -49,11 +51,20 @@ const Youtube = () => {
                     </p>
                 </div>
                 <div className={classes.Videos}>
-                    {}
+                    {projectClip(
+                       "https://github.com/Hbrown16/ask-oracle",
+                       Superheroes,
+                       askOracleDescription 
+                    )}
+                    {projectClip(
+                        "https://github.com/Hbrown16/team_depot",
+                        Music,
+                        vibezDescription
+                    )}
                 </div>
             </div>
         </div>
     );
-}
+};
  
-export default Youtube;
+export default Projects;
