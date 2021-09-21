@@ -1,7 +1,7 @@
 .NavBar {
     background: #181818;
     height: 80px;
-    width: 100px;
+    width: 100%;
     position: fixed;
     z-index: 999;
     opacity: 0.9;
@@ -23,5 +23,9 @@
 
 .NavBar nav ul li a {
    text-decoration: none;
+   color: snow;
+}
 
+.NavBar a:hover {
+    border-bottom: 5px solid #8a2ac5;
 }
