@@ -47,7 +47,7 @@ const totalSkills = [backendSkills, frontendSkills, microsoft,
 
 const Skills = () => {
     return (
-        <div className={classes.Skills}>
+        <div className={classes.Skills} id ="skills">
             <PageHeader title={'Check out my skills'}/>
             <p>
                 Full Stack Web Developer using my background in Warehouse operations and Customer Service to apply 
