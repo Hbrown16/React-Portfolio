@@ -1,3 +1,13 @@
 .Home {
-    background-image: url("../../img/background1.jpg")
+    display: flex;
+    height: 630px;
+    padding-top: 80px;
+    background-image: url("../../img/background1.jpg");
+    background-size: cover;
+    color:rgb(255, 254, 254);
+}
+
+.Home .Container h1 {
+    margin: 0;
+
 }

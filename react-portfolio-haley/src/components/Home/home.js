@@ -1,6 +1,6 @@
 import classes from './Home.module.css'
-import code from './../../img/code.png'
-import binaryWorld from './../../img/about-me.jpeg'
+import code from './../../img/code.svg'
+import binaryWorld from './../../img/world.svg'
 const Home = () => {
     return (
         <div className={classes.Home}>
