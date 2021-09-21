@@ -1,7 +1,8 @@
 import {FaLinkedin, FaGithub, FaMailBulk, FaPhoneAlt  } from "react-icons/fa";
+import classes from '../Contact/Contact.module.css'
 
 const handleURL = (url) => {
-    return even => window.open(url, "_blank")
+    return _event => window.open(url, "_blank")
 }
 
 const Contact = () => {
