@@ -1,5 +1,15 @@
 import classes from './Projects.module.css'
 import PageHeader from '../PageHeader/PageHeader'
+
+const linkBtnSvg = (url) => {
+    return (
+        <div className={StyleSheet.linkButton}
+        onClick={(e) => window.open(url, "_blank") focus}
+        >
+            <svg
+    )
+}
+
 const Youtube = () => {
     return (
         <div className={classes.Projects}>
