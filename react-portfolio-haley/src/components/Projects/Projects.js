@@ -19,6 +19,11 @@ const linkBtnSvg = (url) => {
    );
 };
 
+const projectClip = (url, thumbnail, description) => {
+    return (
+        <
+    )
+}
 const Youtube = () => {
     return (
         <div className={classes.Projects}>
