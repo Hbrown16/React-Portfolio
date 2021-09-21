@@ -26,13 +26,12 @@
 .Home .BinaryWorld {
     height: 15%;
     position:absolute;
-    bottom: 0;
     right: 2%;
 }
 
 .Home .Code {
     height: 15%;
     position: absolute;
-    bottom: 0;
+    bottom: 15%;
     left: 2%;
 }
