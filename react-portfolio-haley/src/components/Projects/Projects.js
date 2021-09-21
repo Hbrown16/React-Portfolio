@@ -26,10 +26,12 @@ const projectClip = (url, thumbnail, description) => {
                 {linkBtnSvg(url)}
                 <img src={thumbnail} alt="thumbnail"></img>
             </div>
-            
+            <div className={StyleSheet.Text}>
+                <p>{description}</p>
+            </div>
         </div>
-    )
-}
+    );
+};
 const Youtube = () => {
     return (
         <div className={classes.Projects}>
