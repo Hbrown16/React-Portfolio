@@ -1,4 +1,4 @@
-import classes from './Home/Home.module.css'
+import classes from './Home.module.css'
 import code from './../../img/background1.jpg'
 import binaryWorld from './../../img/about-me.jpeg'
 const Home = () => {
