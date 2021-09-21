@@ -8,7 +8,9 @@
     align-items:center;
 }
 
-
+.Project .Videos {
+    width: 70%;
+}
 
 .Project .Paragraph {
     width: 65%;
@@ -17,3 +19,5 @@
 .Projects .VideoContainer .Thumbnail img {
     max-width: 489px;
 }
+
+
