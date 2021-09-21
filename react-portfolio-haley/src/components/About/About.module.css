@@ -1,5 +1,5 @@
 .AboutMe {
-    background-color: black;
+    background-image: radial-gradient(circle, rgba(2,3,75,1) 0%, rgba(32,9,97,1) 2%, rgba(0,0,0,1) 75%);
     padding-bottom: 5%;
 }
 

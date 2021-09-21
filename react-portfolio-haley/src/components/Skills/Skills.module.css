@@ -1,5 +1,11 @@
 .Skills {
     background: black;
+    padding-bottom: 5%;
+}
+
+.Skills p {
+    padding-left: 25%;
+    width: 50%;
 }
 
 .Skills .List ul {
