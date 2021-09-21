@@ -22,8 +22,14 @@ h2 {
 p {
   font-weight: 500;
   font-size: 21px;
+  color: white;
 }
 
+a {
+  font-weight: 900;
+  font-size: 16px;
+  color: white;
+}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
