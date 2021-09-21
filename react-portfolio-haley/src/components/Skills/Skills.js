@@ -1,9 +1,11 @@
 import classes from '../Skills/Skills.module.css'
 import PageHeader from '../PageHeader/PageHeader'
 
+const listTitleStyle = {fontWeight: 900, color:'#9B1FE8', marginBottom: '4px' }
+
 const backendSkills =
 <ul>
-    <li>BackEnd</li>
+    <li style={ listTitleStyle }>BackEnd</li>
     <li>Java - SQL - mySQL</li>
     <li>Node.js - Express.js - PHP</li>
     <li>Sails</li>
@@ -11,32 +13,32 @@ const backendSkills =
 
 const frontendSkills =
 <ul>
-    <li>Frontend</li>
+    <li style={ listTitleStyle }>Frontend</li>
     <li>HTML - ReactJS - CSS</li>
 </ul>
 
 const microsoft =
 <ul>
-    <li>Microsoft Skills</li>
+    <li style={ listTitleStyle }>Microsoft Skills</li>
     <li>Word - Powerpoint - Excel</li>
     <li>Outlook</li>
 </ul>
 
 const otherProgramming = 
 <ul>
-    <li>Other Programming Apps</li>
+    <li style={ listTitleStyle }>Other Programming Apps</li>
     <li>Github - Heroku - Squarespace</li>
 </ul>
 
 const otherApp = 
 <ul>
-    <li>Other Applications</li>
+    <li style={ listTitleStyle }>Other Applications</li>
     <li>Insomnia - Intera</li>
 </ul>
 
 const moreSkills = 
 <ul>
-    <li>More Skills</li>
+    <li style={ listTitleStyle }>More Skills</li>
     <li>Photographer - Department Lead</li>
 </ul>
 
