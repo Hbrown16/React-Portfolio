@@ -8,7 +8,7 @@
 5. [Requirements](##Requirements)
 
 ## Links
-+ [Github Repo]()
++ [Github Repo](https://github.com/Hbrown16/React-Portfolio)
 + [Deployeed Link]()
 
 ## Getting Started
