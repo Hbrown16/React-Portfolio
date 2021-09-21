@@ -2,6 +2,13 @@
     background-image: radial-gradient(circle, rgba(5,114,186,1) 23%, rgba(27,134,164,1) 51%, rgba(119,7,246,1) 100%);
 }
 
+.Project .ProjectContent {
+    display: flex;
+    flex-direction: colum;
+    align-items:center;
+}
+
+
 
 .Project .Paragraph {
     width: 65%;
