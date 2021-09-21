@@ -1,3 +1,5 @@
+import classes from '../About/About.module.css'
+
 const About = () => {
     return (
         <div>
