@@ -1,7 +1,7 @@
 import classes from './Projects.module.css'
 import PageHeader from '../PageHeader/PageHeader'
 import Superheroes from './../../img/Askoracle.gif'
-import Music from './../../img/vibez-logo.png'
+import Music from './../../img/vibezs.gif'
 
 const linkBtnSvg = (url) => {
     return (
