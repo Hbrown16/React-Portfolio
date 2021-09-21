@@ -1,3 +1,21 @@
 .Skills {
     background: black;
 }
+
+.Skills .List ul {
+    color: white;
+    list-style-type: none;
+    padding: 0;
+}
+
+.Skills .Container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Skills .Container .List {
+    flex-basis: 33%;
+    background-color: blueviolet;
+    box-shadow: 0 0 12px 4px white;
+    border-radius: 9px
+}
