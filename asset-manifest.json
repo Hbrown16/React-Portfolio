@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/haleyreactportfolio/static/css/main.2a8a7941.chunk.css",
-    "main.js": "/haleyreactportfolio/static/js/main.4885c7b8.chunk.js",
-    "main.js.map": "/haleyreactportfolio/static/js/main.4885c7b8.chunk.js.map",
-    "runtime-main.js": "/haleyreactportfolio/static/js/runtime-main.53f53708.js",
-    "runtime-main.js.map": "/haleyreactportfolio/static/js/runtime-main.53f53708.js.map",
-    "static/js/2.7664abe9.chunk.js": "/haleyreactportfolio/static/js/2.7664abe9.chunk.js",
-    "static/js/2.7664abe9.chunk.js.map": "/haleyreactportfolio/static/js/2.7664abe9.chunk.js.map",
-    "index.html": "/haleyreactportfolio/index.html",
-    "static/css/main.2a8a7941.chunk.css.map": "/haleyreactportfolio/static/css/main.2a8a7941.chunk.css.map",
-    "static/js/2.7664abe9.chunk.js.LICENSE.txt": "/haleyreactportfolio/static/js/2.7664abe9.chunk.js.LICENSE.txt",
-    "static/media/Askoracle.9b13a536.gif": "/haleyreactportfolio/static/media/Askoracle.9b13a536.gif",
-    "static/media/about-me.9c89092f.jpeg": "/haleyreactportfolio/static/media/about-me.9c89092f.jpeg",
-    "static/media/Home.module.css": "/haleyreactportfolio/static/media/background1.41d7f3fb.jpg",
-    "static/media/vibezs.a24f1e69.gif": "/haleyreactportfolio/static/media/vibezs.a24f1e69.gif"
+    "main.css": "/React-Portfolio/static/css/main.0630d908.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.4885c7b8.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.4885c7b8.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.d078388e.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.d078388e.js.map",
+    "static/js/2.7664abe9.chunk.js": "/React-Portfolio/static/js/2.7664abe9.chunk.js",
+    "static/js/2.7664abe9.chunk.js.map": "/React-Portfolio/static/js/2.7664abe9.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.0630d908.chunk.css.map": "/React-Portfolio/static/css/main.0630d908.chunk.css.map",
+    "static/js/2.7664abe9.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.7664abe9.chunk.js.LICENSE.txt",
+    "static/media/Askoracle.9b13a536.gif": "/React-Portfolio/static/media/Askoracle.9b13a536.gif",
+    "static/media/about-me.9c89092f.jpeg": "/React-Portfolio/static/media/about-me.9c89092f.jpeg",
+    "static/media/Home.module.css": "/React-Portfolio/static/media/background1.41d7f3fb.jpg",
+    "static/media/vibezs.a24f1e69.gif": "/React-Portfolio/static/media/vibezs.a24f1e69.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.53f53708.js",
+    "static/js/runtime-main.d078388e.js",
     "static/js/2.7664abe9.chunk.js",
-    "static/css/main.2a8a7941.chunk.css",
+    "static/css/main.0630d908.chunk.css",
     "static/js/main.4885c7b8.chunk.js"
   ]
 }
